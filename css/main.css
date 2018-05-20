@@ -1809,7 +1809,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffe837;
+  background: #ffbdaf;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -1934,16 +1934,24 @@ pre .javascript .function {
   display: inline-block;
   margin: 0 5px;
 }
+.beian {
+  display: inline-block;
+  margin-left: 10px;
+}
 .powered-by,
 .theme-info {
   display: inline-block;
+  margin-left: 0px;
 }
 .powered-by {
-  margin-right: 10px;
+  margin-right: 0px;
 }
 .powered-by::after {
   content: "|";
-  padding-left: 10px;
+  padding-left: 19px;
+}
+.theme-info {
+  margin-left: 19px;
 }
 .cc-license {
   margin-top: 10px;
