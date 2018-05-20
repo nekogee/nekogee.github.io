@@ -1741,6 +1741,7 @@ pre .javascript .function {
   overflow: hidden;
   line-height: 1.4;
   white-space: nowrap;
+  margin-top: 60px;
   text-align: center;
 }
 .site-state-item {
@@ -1787,7 +1788,7 @@ pre .javascript .function {
   color: #fff;
 }
 .links-of-author {
-  margin-top: 20px;
+  margin-top: 60px;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -1808,7 +1809,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #e91371;
+  background: #ffc;
 }
 .links-of-blogroll {
   font-size: 13px;
