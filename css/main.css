@@ -1809,7 +1809,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #0b6e6c;
+  background: #ffa27a;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2900,4 +2900,8 @@ hr {
 .footer-inner {
   margin: 0 auto;
   text-align: center;
+}
+.header {
+  background-image: linear-gradient(124deg, #ff2400, #e81d1d, #e8b71d, #e3e81d, #1de840, #1ddde8, #2b1de8, #dd00f3, #dd00f3);
+  animation: rainbow 12s ease infinite;
 }
